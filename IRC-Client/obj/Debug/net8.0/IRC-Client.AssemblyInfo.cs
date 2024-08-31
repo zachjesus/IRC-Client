@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IRC-Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1562fed8d23efb4574f548435014f86d8a9cf75")]
 [assembly: System.Reflection.AssemblyProductAttribute("IRC-Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IRC-Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

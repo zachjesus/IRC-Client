@@ -1,13 +1,22 @@
 ﻿namespace IRC_Client.ViewModels;
 
+using System;
+using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.Input;
+
 public partial class MainWindowViewModel : ViewModelBase
 {
-#pragma warning disable CA1822 // Mark members as static
-    public string AppTitle => "WormChat";
-    public string Server => "Blank";
-    public string Port => "Blank";
-    public string Channel => "Blank";
-    public string Nickname => "Blank";
-    public string Password => "Blank";
-#pragma warning restore CA1822 // Mark members as static
+    [ObservableProperty]
+    private ViewModelBase _CurrentViewModel = new LoginPageViewModel();
+
+    [RelayCommand]
+    private void ActiveView(string desiredViewModel)
+    {
+        CurrentViewModel = desiredViewModel switch
+        {
+            "Login" => new LoginPageViewModel(),
+            "Chat" => new ServerChatViewModel(),
+            _ => throw new ArgumentException($"Given View Model: {desiredViewModel}, does not exist!")
+        };
+    }
 }

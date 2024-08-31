@@ -6,6 +6,7 @@ build_property.AvaloniaNameGeneratorFilterByPath = *
 build_property.AvaloniaNameGeneratorFilterByNamespace = *
 build_property.AvaloniaNameGeneratorViewFileNamingStrategy = NamespaceAndClassName
 build_property.AvaloniaNameGeneratorAttachDevTools = true
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
 build_property.TargetFramework = net8.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -15,12 +16,18 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IRC-Client
-build_property.ProjectDir = d:\IRC-Client\IRC-Client\
+build_property.ProjectDir = C:\Users\zrosa\OneDrive\Desktop\shared\IRC-Client\IRC-Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[d:/IRC-Client/IRC-Client/App.axaml]
+[C:/Users/zrosa/OneDrive/Desktop/shared/IRC-Client/IRC-Client/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[d:/IRC-Client/IRC-Client/Views/MainWindow.axaml]
+[C:/Users/zrosa/OneDrive/Desktop/shared/IRC-Client/IRC-Client/Views/LoginPageView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/zrosa/OneDrive/Desktop/shared/IRC-Client/IRC-Client/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/zrosa/OneDrive/Desktop/shared/IRC-Client/IRC-Client/Views/ServerChatView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

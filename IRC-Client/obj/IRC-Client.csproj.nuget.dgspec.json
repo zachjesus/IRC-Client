@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\IRC-Client\\IRC-Client\\IRC-Client.csproj": {}
+    "C:\\Users\\zrosa\\OneDrive\\Desktop\\shared\\IRC-Client\\IRC-Client\\IRC-Client.csproj": {}
   },
   "projects": {
-    "d:\\IRC-Client\\IRC-Client\\IRC-Client.csproj": {
+    "C:\\Users\\zrosa\\OneDrive\\Desktop\\shared\\IRC-Client\\IRC-Client\\IRC-Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\IRC-Client\\IRC-Client\\IRC-Client.csproj",
+        "projectUniqueName": "C:\\Users\\zrosa\\OneDrive\\Desktop\\shared\\IRC-Client\\IRC-Client\\IRC-Client.csproj",
         "projectName": "IRC-Client",
-        "projectPath": "d:\\IRC-Client\\IRC-Client\\IRC-Client.csproj",
+        "projectPath": "C:\\Users\\zrosa\\OneDrive\\Desktop\\shared\\IRC-Client\\IRC-Client\\IRC-Client.csproj",
         "packagesPath": "C:\\Users\\zrosa\\.nuget\\packages\\",
-        "outputPath": "d:\\IRC-Client\\IRC-Client\\obj\\",
+        "outputPath": "C:\\Users\\zrosa\\OneDrive\\Desktop\\shared\\IRC-Client\\IRC-Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zrosa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.2.1, )"
+              "version": "[8.3.0, )"
             }
           },
           "imports": [

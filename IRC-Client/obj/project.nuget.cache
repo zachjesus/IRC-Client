@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dkQOUvob2H4=",
+  "dgSpecHash": "Z7/Udk5Y2aE=",
   "success": true,
-  "projectFilePath": "d:\\IRC-Client\\IRC-Client\\IRC-Client.csproj",
+  "projectFilePath": "C:\\Users\\zrosa\\OneDrive\\Desktop\\shared\\IRC-Client\\IRC-Client\\IRC-Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zrosa\\.nuget\\packages\\avalonia\\11.1.0\\avalonia.11.1.0.nupkg.sha512",
     "C:\\Users\\zrosa\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.22045.20230930\\avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
@@ -20,7 +20,7 @@
     "C:\\Users\\zrosa\\.nuget\\packages\\avalonia.themes.simple\\11.1.0\\avalonia.themes.simple.11.1.0.nupkg.sha512",
     "C:\\Users\\zrosa\\.nuget\\packages\\avalonia.win32\\11.1.0\\avalonia.win32.11.1.0.nupkg.sha512",
     "C:\\Users\\zrosa\\.nuget\\packages\\avalonia.x11\\11.1.0\\avalonia.x11.11.1.0.nupkg.sha512",
-    "C:\\Users\\zrosa\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
+    "C:\\Users\\zrosa\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.0\\communitytoolkit.mvvm.8.3.0.nupkg.sha512",
     "C:\\Users\\zrosa\\.nuget\\packages\\harfbuzzsharp\\7.3.0.2\\harfbuzzsharp.7.3.0.2.nupkg.sha512",
     "C:\\Users\\zrosa\\.nuget\\packages\\harfbuzzsharp.nativeassets.linux\\7.3.0.2\\harfbuzzsharp.nativeassets.linux.7.3.0.2.nupkg.sha512",
     "C:\\Users\\zrosa\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0.2\\harfbuzzsharp.nativeassets.macos.7.3.0.2.nupkg.sha512",
